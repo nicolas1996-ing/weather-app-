@@ -41,13 +41,6 @@ const main = async () => {
           max: weather.max,
           temp: weather.temp,
         });
-
-        // console.log(place);
-        // search places
-        // select place
-        // search weather about place
-        // show results
-
         break;
 
       case 2:
